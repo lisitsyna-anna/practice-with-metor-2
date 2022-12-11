@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-with-metor-2/static/css/main.7acaea2f.css",
+    "main.js": "/practice-with-metor-2/static/js/main.07d3183d.js",
+    "index.html": "/practice-with-metor-2/index.html",
+    "main.7acaea2f.css.map": "/practice-with-metor-2/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/practice-with-metor-2/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
